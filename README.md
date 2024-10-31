@@ -1,5 +1,7 @@
 # 关于Xboard
 Xboard是基于V2board二次开发，在性能上和功能上都有大部分增强的**面板
+视频教程
+https://www.youtube.com/playlist?list=PLdNEndSNzaHoVgrqNR9zwd7Xu0uOM2jQY
 
 # 免责声明
 本项目只是本人个人学习开发并维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
